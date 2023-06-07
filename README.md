@@ -6,11 +6,13 @@ This project was my first attempt at building my portfolio. It took so long and 
   
 ## Usage
 
-https://sjones-njones.github.io/Stephanie-jones-portfolio/
+https://sjones-njones.github.io/Stephanie-Jones-Portfolio/
 
 https://github.com/sjones-njones/Stephanie-Jones-Portfolio.git
 
-
+![image](https://github.com/sjones-njones/Stephanie-Jones-Portfolio/assets/132145599/e8e28268-dc5e-48c7-a972-3857f38442f5)
+![image](https://github.com/sjones-njones/Stephanie-Jones-Portfolio/assets/132145599/0832cfd1-777c-4458-9dee-49c18ad5a208)
+![image](https://github.com/sjones-njones/Stephanie-Jones-Portfolio/assets/132145599/280bbb9d-3299-418b-9fe5-3f7fb814be73)
 
 ## Credits
 
