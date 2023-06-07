@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was my first attempt at building my portfolio. It took so long and I learned so much. Formatting is the most difficult part but it is getting better. This site provides links to my resume, some of my work, and contact info.  
+This project was my first attempt at building my portfolio. It took so long and I learned so much. Formatting is the most difficult part but it is getting better. This site provides links to my resume, some of my work, and contact info. This is the first time I have used hover pseudoclass and transition effects. It is also my first attempt at creating a responsive site. 
   
 ## Usage
 
